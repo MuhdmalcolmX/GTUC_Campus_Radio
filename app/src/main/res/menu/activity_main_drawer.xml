@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_radio"
+            android:icon="@drawable/ic_radio_stream"
+            android:title="@string/nav_radio" />
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/ic_notifications"
+            android:title="@string/nav_notification" />
+        <item
+            android:id="@+id/nav_message"
+            android:icon="@drawable/ic_send_message"
+            android:title="@string/nav_message" />
+    </group>
+
+    <item android:title="@string/nav_divider">
+        <menu>
+            <item
+                android:id="@+id/nav_student_portal"
+                android:icon="@drawable/ic_play"
+                android:title="@string/nav_student_portal" />
+            <item
+                android:id="@+id/nav_school_website"
+                android:icon="@drawable/ic_play"
+                android:title="@string/activity_title_school_website" />
+            <item
+                android:id="@+id/nav_about_us_school"
+                android:icon="@drawable/ic_about_us"
+                android:title="@string/nav_about_us_school" />
+            <item
+                android:id="@+id/nav_about_us_developers"
+                android:icon="@drawable/ic_about_us"
+                android:title="@string/nav_about_us_developers" />
+        </menu>
+    </item>
+
+</menu>

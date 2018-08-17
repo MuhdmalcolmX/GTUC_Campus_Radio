@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">GTUC Campus Radio</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_radio">Radio</string>
+    <string name="nav_notification">Notification</string>
+    <string name="nav_message">Messaging</string>
+    <string name="nav_student_portal">Student Portal</string>
+    <string name="nav_school_website">School Website</string>
+    <string name="nav_about_us_school">About Us (School)</string>
+    <string name="nav_about_us_developers">About Us (Developers)</string>
+    <string name="nav_divider">More</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Radio</item>
+        <item>Notifications</item>
+        <item>Messaging</item>
+        <item>Student Portal</item>
+        <item>School Website</item>
+        <item>About Us (School)</item>
+        <item>About Us (Developers)</item>
+    </string-array>
+
+
+    <string name="action_exit">Exit</string>
+    <string name="action_share">Share</string>
+    <string name="alert_title">Confirm Exit</string>
+    <string name="alert_msg">Are you sure you would like to proceed with this action \n\n Nb: This will stop the streaming </string>
+
+    <string name="activity_title_about_us_school">About Us (School)</string>
+    <string name="activity_title_about_us_developers">About Us (Developers)</string>
+    <string name="activity_title_student_portal">Student Portal</string>
+    <string name="activity_title_school_website">School Website</string>
+
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Internet Streaming!</string>
+    <string name="slide_1_desc">The easiest way to listen to events on campus live or pre-recorded! </string>
+
+    <string name="slide_2_title">Cloud Messaging!</string>
+    <string name="slide_2_desc">Receive messages from campus as notifications!</string>
+
+    <string name="slide_3_title">Send Message!</string>
+    <string name="slide_3_desc">Send your contributions, suggestions and complains to the people that matter!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
